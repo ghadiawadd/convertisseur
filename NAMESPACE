@@ -1,4 +1,3 @@
-
 export(convertir_X_en_numerique)
 import(dplyr)
 import(ggplot2)
