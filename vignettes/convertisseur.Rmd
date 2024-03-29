@@ -16,7 +16,7 @@ Cette vignette fournit des instructions sur la manière d'utiliser la fonction `
 Vous pouvez installer vla package en utilisant la fonction `install.packages` depuis CRAN :
 
 ```R
-install.packages("votre_package")
+install.packages("convertisseur")
 
 
 
@@ -32,7 +32,7 @@ Voici un exemple d'utilisation :
 
 R
 
-library(votre_package)
+library(convertisseur)
 
 # Convertir la chaîne "123+456" en valeur numérique
 resultat <- convertir_X_en_numerique("123+456")
