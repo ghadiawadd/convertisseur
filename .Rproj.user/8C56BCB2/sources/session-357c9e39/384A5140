@@ -1,0 +1,26 @@
+{
+    "id": "384A5140",
+    "path": "~/convertisseur/tests/testthat/test-convertisseurnum.R",
+    "project_path": "tests/testthat/test-convertisseurnum.R",
+    "type": "r_source",
+    "hash": "2889106746",
+    "contents": "",
+    "dirty": false,
+    "created": 1711630818568.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1711632128,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711632128020,
+    "read_only": false,
+    "read_only_alternatives": []
+}

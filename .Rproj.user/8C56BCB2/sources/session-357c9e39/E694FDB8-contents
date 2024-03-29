@@ -1,0 +1,13 @@
+ame: convertisseur
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.3.3
+  - r-datasets=4.3.3
+  - r-devtools=2.4.3
+  - r-graphics=4.3.3
+  - r-grDevices=4.3.3
+  - r-methods=4.3.3
+  - r-stats=4.3.3
+  - r-usethis=2.2.3
+  - r-utils=4.3.3

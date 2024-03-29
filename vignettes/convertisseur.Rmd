@@ -1,0 +1,41 @@
+---
+title: "Utilisation de la fonction convertir_X_en_numerique"
+author: ghadi 
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+---
+
+# Introduction
+
+Cette vignette fournit des instructions sur la manière d'utiliser la fonction `convertir_X_en_numerique` de ma package.
+
+## Installation
+
+Vous pouvez installer vla package en utilisant la fonction `install.packages` depuis CRAN :
+
+```R
+install.packages("votre_package")
+
+
+
+fichier utilisation_convertir_X_en_numerique.Rmd (pour un fichier R Markdown) :
+
+
+
+Exemple d'utilisation
+
+La fonction convertir_X_en_numerique prend une chaîne de caractères au format "XXX+YYY" et retourne la valeur numérique en additionnant XXX à YYY/1000.
+
+Voici un exemple d'utilisation :
+
+R
+
+library(votre_package)
+
+# Convertir la chaîne "123+456" en valeur numérique
+resultat <- convertir_X_en_numerique("123+456")
+print(resultat)
+123.456
+

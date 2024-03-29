@@ -1,0 +1,15 @@
+Package: convertisseur
+Type: Package
+Title: convertisseur numérique
+Version: 0.1.0
+Author: awad
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Cette fonction prend une chaîne de caractères représentant un nombre au format "XXX+YYY",
+ où "XXX" et "YYY" sont des chaînes représentant des nombres entiers, et convertit cette chaîne
+ en une valeur numérique en additionnant XXX à YYY/1000.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

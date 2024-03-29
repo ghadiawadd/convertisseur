@@ -1,0 +1,2 @@
+library(convertisseur)
+convertisseur::convertir_X_en_numerique("1213+6565")
